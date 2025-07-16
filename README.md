@@ -33,3 +33,6 @@ Esse projeto foi criado com o objetivo de oferecer um serviço de hospedagem mod
 - Node.js instalado
 - PHP instalado
 
+## 🎥 Demonstração do Projeto
+
+[Assista ao vídeo no Discord](https://cdn.discordapp.com/attachments/1393059819509776455/1394872461031637053/bandicam_2025-06-08_22-11-14-385.mp4?ex=687863b6&is=68771236&hm=4255bc6f12c290c2999ac26c93b9f95fd1381f41a82be315a0f5558872bb2bb1&)
